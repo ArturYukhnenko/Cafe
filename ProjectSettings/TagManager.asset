@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
+  - Fluid
+  - stealingpoint
+  - sittingpoint
+  - pickuppoint
+  - waypoint
   layers:
   - Default
   - TransparentFX
@@ -11,7 +17,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Exception
   - 
   - 
   - 
@@ -40,4 +46,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 1539548089
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 614838005
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 4048728377
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 1065272219
+    locked: 0
+  - name: Exception
+    uniqueID: 3356875185
     locked: 0
