@@ -1,6 +1,6 @@
 [submodule "Assets/Resourses"]
 	path = Assets/Resourses
-	url = https://github.com/ArturYukhnenko/Resourses.git
+	url = git@github.com:ArturYukhnenko/Resourses.git
 [submodule "Assets/Scripts"]
 	path = Assets/Scripts
-	url = https://github.com/ArturYukhnenko/Scripts.git
+	url = git@github.com:ArturYukhnenko/Scripts.git
