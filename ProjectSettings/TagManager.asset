@@ -10,15 +10,20 @@ TagManager:
   - sittingpoint
   - pickuppoint
   - waypoint
+  - equipmentSpawner
+  - GameManager
+  - RoomGenerator
+  - Employee
+  - Customer
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Floor
   - Water
   - UI
   - Exception
-  - 
+  - Hint
   - 
   - 
   - 
